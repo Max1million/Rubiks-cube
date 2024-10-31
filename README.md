@@ -2,7 +2,7 @@ Modules needed are turtle, random, time, and numpy
 
 Run the program and a virtual Rubik's Cube will appear
 
-You can change the turn speed with line 9 in the program. The higher the turn speed, the faster the turns. A turn speed of 160 is instant. A turn speed of 0 or greater than 160 will cause an error.
+You can change the turn speed by changing line 9 in the program. The higher the turn speed, the faster the turns. A turn speed of 160 is instant. A turn speed of 0 or greater than 160 will cause an error.
 
 Type keys to turn sides. The keys are meant to mimic finger tricks on the physical Rubik's Cube
 
